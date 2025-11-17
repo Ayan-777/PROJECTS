@@ -1,0 +1,26 @@
+# Node modules (if you ever use Node.js later)
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+
+# Build or Dist folders (if you create any future builds)
+dist/
+build/
+
+# Backup or temporary files
+*.tmp
+*.swp
+*.bak
+
+# Environment files (if you use
