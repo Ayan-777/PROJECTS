@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background: #0a0a0a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.clock-container {
+  background: #111;
+  padding: 40px 60px;
+  border-radius: 20px;
+  box-shadow: 0 0 20px #f03820;
+}
+
+.clock {
+  font-size: 70px;
+  color: #5be7a6;
+  letter-spacing: 3px;
+  text-align: center;
+}
